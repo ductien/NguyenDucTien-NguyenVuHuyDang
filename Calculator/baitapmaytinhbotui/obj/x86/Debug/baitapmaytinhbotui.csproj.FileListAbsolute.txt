@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\lưu\baitapmaytinhbotui\baitapmaytinhbotui\obj\x86\Debug\baitapmaytinhbotui.Form1.resources
+C:\Users\Administrator\Documents\lưu\baitapmaytinhbotui\baitapmaytinhbotui\obj\x86\Debug\baitapmaytinhbotui.Properties.Resources.resources
+C:\Users\Administrator\Documents\lưu\baitapmaytinhbotui\baitapmaytinhbotui\obj\x86\Debug\baitapmaytinhbotui.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\lưu\baitapmaytinhbotui\baitapmaytinhbotui\bin\Debug\baitapmaytinhbotui.exe
+C:\Users\Administrator\Documents\lưu\baitapmaytinhbotui\baitapmaytinhbotui\bin\Debug\baitapmaytinhbotui.pdb
+C:\Users\Administrator\Documents\lưu\baitapmaytinhbotui\baitapmaytinhbotui\obj\x86\Debug\baitapmaytinhbotui.exe
+C:\Users\Administrator\Documents\lưu\baitapmaytinhbotui\baitapmaytinhbotui\obj\x86\Debug\baitapmaytinhbotui.pdb
